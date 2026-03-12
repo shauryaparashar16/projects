@@ -7,6 +7,7 @@ A Python-based keylogging application with a GUI interface built using Tkinter.
 The project demonstrates keyboard event monitoring, local logging, and optional cloud synchronization using Firebase.
 ## Project Structure
 
+```
 AdvanceKeylogger/
 │
 ├── kelogg.py       # Local keylogger with GUI
@@ -14,6 +15,8 @@ AdvanceKeylogger/
 ├── kelogg.pyw      # Windows background version (no console)
 ├── key_log.txt     # Generated log file
 └── img.jpg         # GUI background image
+```
+
 
 ## Installation
 
