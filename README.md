@@ -14,6 +14,7 @@ AdvanceKeylogger/
 ├── kelogg.pyw      # Windows background version (no console)
 ├── key_log.txt     # Generated log file
 └── img.jpg         # GUI background image
+
 ## Installation
 
 Clone the repository:
